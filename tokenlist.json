@@ -28,6 +28,17 @@
         "tags": [
           "stablecoin"
         ]
+      },
+      {
+        "chainId": 3,
+        "address": "0x723dCdFC1485212aeaa5574316E4b39d4e760Fee",
+        "symbol": "HEC",
+        "name": "HektorCoin",
+        "decimals": 18,
+        "logoURI": "ipfs://QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM",
+        "tags": [
+          "stablecoin"
+        ]
       }
     ],
     "version": {
